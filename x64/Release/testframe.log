@@ -1,0 +1,6 @@
+﻿  testframework.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 161 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  testframe.vcxproj -> C:\Users\whocares\source\repos\testframe\x64\Release\testframe.exe
